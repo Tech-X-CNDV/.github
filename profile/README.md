@@ -1,5 +1,8 @@
-## Hi there 👋
+## Tech-X CNDV 19101
 
+## Official GitHub Organisation of FTC TEAM 19101 from Romania, Sighetu Marmatiei
+
+##
 <!--
 
 **Here are some ideas to get you started:**
